@@ -13,6 +13,7 @@ User Functionality: Regular users can log in, view the available products, and m
 
 Dynamic Updates: After a user makes a purchase, the stock is updated to reflect the new quantities available.
 
+
 Code Structure:
 
 Stock Data: Defined as a list of dictionaries, each representing a product.
@@ -25,6 +26,7 @@ User Function: Manages user login, product selection, and purchase processing.
 
 Login Function: Determines whether to direct the user to the admin or user function based on their designation.
 
+
 How to Use:
 
 Run the script and log in as either an admin or a user.
@@ -32,6 +34,7 @@ Run the script and log in as either an admin or a user.
 Admins can add quantities to the existing stock.
 
 Users can select products to purchase and receive a total bill including GST.
+
 
 Future Improvements:
 
